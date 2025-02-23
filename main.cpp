@@ -15,6 +15,4 @@ bool isUnique(std::string str) {
   return true;
 }
 
-int main(int argc, char *argv[]) {
-  return 0;
-}
+int main(int argc, char *argv[]) { return 0; }
